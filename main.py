@@ -53,3 +53,6 @@ if __name__ == '__main__':
 # git add .
 # git status
 # git commit -m "First commit"
+# git push
+
+# git pull
